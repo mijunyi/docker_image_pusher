@@ -7,3 +7,4 @@ xhofe/alist:latest
 nyanmisaka/jellyfin
 linuxserver/jackett
 allanpk716/chinesesubfinder
+jlesage/docker-firefox

@@ -1,1 +1,3 @@
-hanxi/xiaomusic
+linuxserver/docker-prowlarr
+linuxserver/docker-radarr
+linzeyi/hivision_idphotos

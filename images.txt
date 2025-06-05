@@ -1,1 +1,2 @@
-linzeyi/hivision_idphotos
+lscr.io/linuxserver/radarr:latest
+lscr.io/linuxserver/prowlarr:latest
